@@ -1,9 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Helvetica&display=swap');
+h1 {
+  color:#94c02f;
+  font-size: 22px;
+}
 
 body {
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  font-weight: normal;
   background: #2C2D32;
-  color: #94c02f;
+}
+
+p {
+color: #EDEDED;
 }
