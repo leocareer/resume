@@ -8,5 +8,11 @@ body {
 }
 
 p {
-color: #EDEDED;
+color: #777777;
 }
+
+h2 {
+  color: #EDEDED;
+  font-size: 20px;
+}
+
