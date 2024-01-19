@@ -2,7 +2,6 @@
 
 body {
   background: #2C2D32;
-  /*font: normal 13px 'Roboto', sans-serif;*/
   font-family: 'Roboto', sans-serif;
   font-size: 13px;
   font-weight: normal;
@@ -49,15 +48,11 @@ li {
   color: #EDEDED;
 }
 
-.btn {
-  padding: 6px;
-  border: solid;
-  border-color: #EDEDED;
-  border-radius: 5px;
+.links {
+  text-align: right;
 }
 
-.links {}
-
 .text {
+  text-align: justify;
 }
 
